@@ -1,0 +1,9 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 4.1.0
+_src_path: gh:epics-containers/ioc-template
+description: For test
+git_platform: github.com
+github_org: memetberkergur
+name: ioc-tdk-lambda
+repo_uri: git@github.com:memetberkergur/ioc-tdk-lambda.git
+rtems: false
